@@ -1,0 +1,100 @@
+error paint_template_error | 14.11.2016 21:21:25  |  User:   | products | response200
+error paint_template_error | 14.11.2016 21:29:13  |  User:   | products | response200
+error paint_template_error | 14.11.2016 21:29:46  |  User:   | products | response200
+error paint_template_error | 14.11.2016 21:29:50  |  User:   | products | response200
+error paint_template_error | 14.11.2016 21:29:54  |  User:   | products | response200
+error paint_template_error | 14.11.2016 21:30:58  |  User:   | products | response200
+error paint_template_error | 14.11.2016 21:31:07  |  User:   | products | response200
+error paint_template_error | 14.11.2016 21:31:50  |  User:   | products | response200
+error paint_template_error | 14.11.2016 21:32:28  |  User:   | products | response200
+error paint_template_error | 14.11.2016 21:34:24  |  User:   | products | response200
+error paint_template_error | 14.11.2016 21:36:04  |  User:   | products | response200
+error paint_template_error | 14.11.2016 21:38:02  |  User:   | products | response200
+ERROR - 503 BD | 14.11.2016 21:40:10  |  User:   | products | response 200
+error paint_template_error | 14.11.2016 21:40:10  |  User:   | products | response200
+error loadView | 16.11.2016 21:49:17  |  User:   | products | response 400
+error paint_template_error | 16.11.2016 21:49:17  |  User:   | products | response200
+error loadView | 16.11.2016 21:49:22  |  User:   | products | response 400
+error paint_template_error | 16.11.2016 21:49:22  |  User:   | products | response200
+error loadView | 16.11.2016 21:49:56  |  User:   | products | response 400
+error paint_template_error | 16.11.2016 21:49:56  |  User:   | products | response200
+ERROR: [8] Undefined variable: producto
+Notice on line 145 in file /var/www/html/Gamebets/modules/products/controller/controller_products.class.php
+ | 17.11.2016 19:09:53  |  User:   | products | response 200
+ERROR: [8] Undefined variable: producto
+Notice on line 145 in file /var/www/html/Gamebets/modules/products/controller/controller_products.class.php
+ | 17.11.2016 19:09:55  |  User:   | products | response 200
+ERROR: [8] Undefined variable: producto
+Notice on line 145 in file /var/www/html/Gamebets/modules/products/controller/controller_products.class.php
+ | 17.11.2016 19:09:57  |  User:   | products | response 200
+ERROR: [8] Undefined variable: producto
+Notice on line 145 in file /var/www/html/Gamebets/modules/products/controller/controller_products.class.php
+ | 17.11.2016 19:09:58  |  User:   | products | response 200
+ERROR: [8] Undefined variable: producto
+Notice on line 145 in file /var/www/html/Gamebets/modules/products/controller/controller_products.class.php
+ | 17.11.2016 19:10:11  |  User:   | products | response 200
+ERROR: [8] Undefined variable: producto
+Notice on line 145 in file /var/www/html/Gamebets/modules/products/controller/controller_products.class.php
+ | 17.11.2016 19:10:14  |  User:   | products | response 200
+error loadView | 22.11.2016 19:13:06  |  User:   | main | response 400
+error loadView | 22.11.2016 19:13:38  |  User:   | view | response 400
+error loadView | 22.11.2016 19:17:05  |  User:   | view | response 400
+error loadView | 22.11.2016 19:17:33  |  User:   | view | response 400
+error loadView | 22.11.2016 19:18:07  |  User:   | view | response 400
+error loadView | 22.11.2016 19:19:08  |  User:   | view | response 400
+error loadView | 22.11.2016 19:19:22  |  User:   | view | response 400
+ERROR - 404 NO DATA | 22.11.2016 19:19:26  |  User:   | products | response 200
+error paint_template_error | 22.11.2016 19:19:26  |  User:   | products | response200
+error loadView | 22.11.2016 19:20:54  |  User:   | view | response 400
+error loadView | 22.11.2016 19:20:57  |  User:   | view | response 400
+ERROR - 404 NO DATA | 22.11.2016 19:21:07  |  User:   | products | response 200
+error paint_template_error | 22.11.2016 19:21:07  |  User:   | products | response200
+error loadView | 23.11.2016 19:57:50  |  User:   | products/list_products | response 400
+error loadView | 23.11.2016 20:02:02  |  User:   | view | response 400
+error loadView | 23.11.2016 20:02:05  |  User:   | view | response 400
+error loadView | 23.11.2016 20:02:25  |  User:   | view | response 400
+error loadView | 23.11.2016 20:02:26  |  User:   | products/list_products | response 400
+error loadView | 23.11.2016 20:02:28  |  User:   | products/list_products | response 400
+error loadView | 23.11.2016 20:02:37  |  User:   | view | response 400
+error loadView | 23.11.2016 20:02:39  |  User:   | products/list_products | response 400
+error loadView | 23.11.2016 20:03:39  |  User:   | products/list_products | response 400
+error loadView | 23.11.2016 20:03:44  |  User:   | products/list_products | response 400
+error loadView | 23.11.2016 20:04:09  |  User:   | view | response 400
+error loadView | 23.11.2016 20:04:11  |  User:   | products/list_products | response 400
+error loadView | 23.11.2016 20:21:38  |  User:   | products/list_products | response 400
+error loadView | 23.11.2016 20:21:44  |  User:   | view | response 400
+error loadView | 23.11.2016 20:21:46  |  User:   | products/list_products | response 400
+error loadView | 23.11.2016 20:22:35  |  User:   | products/list_products | response 400
+error loadView | 23.11.2016 20:23:08  |  User:   | view | response 400
+error loadView | 23.11.2016 20:23:09  |  User:   | products/list_products | response 400
+error loadView | 23.11.2016 20:24:55  |  User:   | view | response 400
+error loadView | 23.11.2016 20:24:57  |  User:   | products/list_products | response 400
+error loadView | 23.11.2016 20:24:58  |  User:   | products/list_products | response 400
+error loadView | 23.11.2016 20:25:04  |  User:   | view | response 400
+error loadView | 23.11.2016 20:25:06  |  User:   | products/list_products | response 400
+error loadView | 23.11.2016 20:25:37  |  User:   | products/list_products | response 400
+error loadView | 23.11.2016 20:26:16  |  User:   | view | response 400
+error loadView | 23.11.2016 20:26:17  |  User:   | products/list_products | response 400
+error loadView | 23.11.2016 20:27:36  |  User:   | view | response 400
+error loadView | 23.11.2016 20:27:38  |  User:   | products/list_products | response 400
+error loadView | 23.11.2016 20:28:21  |  User:   | view | response 400
+error loadView | 23.11.2016 20:28:22  |  User:   | products/list_products | response 400
+error loadView | 23.11.2016 20:28:45  |  User:   | view | response 400
+error loadView | 23.11.2016 20:28:47  |  User:   | products/list_products | response 400
+error loadView | 23.11.2016 20:30:10  |  User:   | view | response 400
+error loadView | 23.11.2016 20:30:12  |  User:   | products/list_products | response 400
+error loadView | 23.11.2016 20:30:20  |  User:   | view | response 400
+error loadView | 23.11.2016 20:30:22  |  User:   | products/list_products | response 400
+error loadView | 23.11.2016 20:31:51  |  User:   | view | response 400
+error loadView | 23.11.2016 20:31:53  |  User:   | products/list_products | response 400
+error loadView | 23.11.2016 20:32:32  |  User:   | view | response 400
+error loadView | 23.11.2016 20:32:34  |  User:   | products/list_products | response 400
+error loadView | 23.11.2016 20:33:51  |  User:   | view | response 400
+error loadView | 23.11.2016 20:34:06  |  User:   | view | response 400
+error loadView | 23.11.2016 20:42:05  |  User:   | view | response 400
+error loadView | 23.11.2016 20:42:32  |  User:   | view | response 400
+error loadView | 23.11.2016 20:44:34  |  User:   | view | response 400
+error loadView | 23.11.2016 20:45:13  |  User:   | view | response 400
+error loadView | 23.11.2016 20:46:41  |  User:   | view | response 400
+error loadView | 23.11.2016 20:47:35  |  User:   | view | response 400
+error loadView | 23.11.2016 20:47:56  |  User:   | view | response 400
